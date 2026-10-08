@@ -20,9 +20,7 @@ They actors of the system are :-
 
 ## Artificial entities 
 Those are entities that are abstract such as College or Course. They have a tree-like hierarchy. 
-```
-College\
-|-- Faculties\
+
 
 
 
