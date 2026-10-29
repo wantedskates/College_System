@@ -19,7 +19,7 @@
 
 -The mobile app right now is malfunctioning when the student opens it on offline mode
 
-- (This idea needs more studying) All of the communication between the college and students will be inside the app , there shall be no more Whatsapp or Telegram groups
+- (This idea needs more studying) All of the communication between the college and students will be inside the app , there shall be no more Whatsapp or Telegram groups. This includes announcements, news, holidays, schedules...etc 
 
 - A chatbot AI assistant will be also integrated into the website
 
